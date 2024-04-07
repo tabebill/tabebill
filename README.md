@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tabe Bill</h1>
 <h3 align="center">A passionate DevOps engineer with a unique journey in the tech world. My career began as a frontend developer, where I gained a deep appreciation for creating user-friendly and visually appealing web applications. Over time, I transitioned into the world of DevOps, where I found my true calling in automating and streamlining the deployment and management of cloud infrastructure. I bring a frontend developer's attention to detail and a DevOps engineer's expertise in orchestrating scalable and efficient systems on cloud platforms, particularly AWS. I'm excited to share my experiences, projects, and knowledge with you here.</h3>
 
-<img align="right" alt="DevOps" width="400" src="https://camo.githubusercontent.com/a5fa01fdbb7087fc06ae52a3384acda343d221f40bca53b371238899b6aeeec0/68747470733a2f2f73696d706c65636f64696e672e6465762f6173736574732f6465766f70732e676966">
+<img align="right" alt="DevOps" width="400" src="https://github.com/tabebill/tabebill/blob/main/68747470733a2f2f73696d706c65636f64696e672e6465762f6173736574732f6465766f70732e676966.gif">
 
 <p align="left"> <a href="https://twitter.com/misterbill237" target="blank"><img src="https://img.shields.io/twitter/follow/misterbill237?logo=twitter&style=for-the-badge" alt="misterbill237" /></a> </p>
 
