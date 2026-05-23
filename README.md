@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/misterbill237" target="blank"><img src="https://img.shields.io/twitter/follow/misterbill237?logo=twitter&style=for-the-badge" alt="misterbill237" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Kubernetes, AWS CDK projects**
+- 👯 I’m looking to collaborate on **Kubernetes, Data Pipelines, Webapps**
 
-- 💬 Ask me about **AWS DevOps Engineering**
+- 💬 Ask me about **DevOps Engineering**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
